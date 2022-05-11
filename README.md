@@ -6,4 +6,4 @@
 
 <p>My desired outcome for this project is to improve my DOM skills, practice creating components and deliever a project using Webpack</p>
 
-<p><strong>Live: </strong><a href="https://mattxmade.github.io/odin-restaurant/" target="_blank">Restaurant</a></p>
+<p><strong>Live: </strong><a href="https://mattxmade.github.io/odin-restaurant/dist/index.html" target="_blank">Restaurant</a></p>
