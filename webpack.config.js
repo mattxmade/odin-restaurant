@@ -11,7 +11,9 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Restaurant',
+      inject: 'head',
+      title: "Joe's Pizza",
+      favicon: './src/pizzav2_48x48.ico',
       template: './src/page-index.html'
     }),
   ],  
